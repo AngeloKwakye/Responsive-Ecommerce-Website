@@ -1,0 +1,26 @@
+{
+  "name": "Ecommerce-Website",
+  "version": "1.0.0",
+  "description": "Responsive Ecommerce website",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngeloKwakye/Responsive-Ecommerce-Website.git"
+  },
+  "keywords": [],
+  "author": "D'Angelo Kwakye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngeloKwakye/Responsive-Ecommerce-Website/issues"
+  },
+  "homepage": "https://github.com/AngeloKwakye/Responsive-Ecommerce-Website#readme",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
