@@ -14,7 +14,7 @@ app.get('/products', async (req, res)=>{
         const data = response.data;
         res.json(data);
     }catch (error){
-        res.status(500).send('Error teching data from external API')
+        res.status(500).send('Error fetching data from external API')
     }
 });
 
